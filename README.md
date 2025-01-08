@@ -4,4 +4,4 @@
 
 Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
 
-![alt text](NetBeans_Logo.jpg)
+![Alt text](relative%20path/to/NetBeans_Logo.jpg?raw=true "Title")
