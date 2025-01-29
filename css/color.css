@@ -3,7 +3,8 @@
     margin-right:  30px;
 }
 
-h2 {
- background-color: #F5F5DC; /* Change la couleur de fond */
+
+h2.bts {
+     background-color: #ff7a5e; /* Change la couleur de fond */
     border-radius: 1px; /* Optionnel, pour adoucir les bords */
 }
