@@ -93,7 +93,7 @@ font-weight: 700; justify-content: space-between;}
     display: flex; flex-direction: row; justify-content: space-between; } 
 #competences .container .libelle { font-size: 1.3em; } 
 #competences .container .classement { 
-    background: scroll transparent url(../images/Red-Rating-Stars.png) no-repeat; 
+    background: scroll transparent url(../Images/Red-Rating-Stars.png) no-repeat; 
     width: 160px; height: 27px; } 
 #competences .container .classement0 { background-position: 0 -142px; } 
 #competences .container .classement1 { background-position: 0 -112px; } 
